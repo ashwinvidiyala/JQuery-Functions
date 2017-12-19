@@ -1,3 +1,3 @@
 # JQuery Functions
 
-<script type="text/javascript" src= "https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+Building a page that uses JQuery Functions
